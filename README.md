@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Renan
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+coding.;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+coding.;Keep+learning.)](https://git.io/typing-svg)
 <!--
 **r3n4n122/r3n4n122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
