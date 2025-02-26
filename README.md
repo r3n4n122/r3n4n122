@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Renan
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+coding.+Keep+learning.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on <a=href="https://www.walljobs.com.br/">Walljobs</a>
+- 🔭 I’m currently working on <a href="https://www.walljobs.com.br">Walljobs</a>
 <!--
 **r3n4n122/r3n4n122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
